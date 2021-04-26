@@ -1,6 +1,10 @@
 # Klipper Config
 My personal Klipper config for my Longer LK4 Pro. You will need to adjust things like the BLTouch offsets to match your printer.
 
+# Known Issues
+- Touchscreen is Landscape
+- Abort/pause on the touchscreen dont work
+
 # Components for a working LK4 Pro Klipper Install
 - A raspberry pi running MainsailOS - https://github.com/raymondh2/MainsailOS
 - Desuuuu's Klipper fork, including DGUS touchscreen support - https://github.com/Desuuuu/klipper 
